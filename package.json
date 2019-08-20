@@ -1,0 +1,14 @@
+{
+  "name": "nonsoportfolio",
+  "version": "1.0.0",
+  "description": "A semo portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nonso Daniel",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
